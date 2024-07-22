@@ -9,7 +9,7 @@
     "start:client": "ts-node server.ts"
   },
   "dependencies": {
-    "@emotion/react": "^11.12.0",
+    "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@fontsource-variable/inter": "^5.0.19",
     "@mui/icons-material": "^5.16.3",
