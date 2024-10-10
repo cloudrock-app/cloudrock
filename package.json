@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.25.7",
     "@babel/plugin-transform-react-jsx": "^7.25.2",
-    "@babel/preset-env": "^7.25.7",
+    "@babel/preset-env": "^7.25.8",
     "@babel/preset-react": "^7.25.7",
     "@babel/preset-typescript": "^7.25.7",
     "@mikey-pro/eslint-config-react": "^7.5.3",
